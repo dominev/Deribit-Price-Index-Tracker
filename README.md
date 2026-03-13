@@ -114,6 +114,7 @@ docker-compose up -d
 
 - Документация API: [http://localhost:8000/docs](http://localhost:8000/docs)
 - Последняя цена BTC/USD: [http://localhost:8000/prices/latest?ticker=btc_usd](http://localhost:8000/prices/latest?ticker=btc_usd)
+- Последняя цена ETH/USD: [http://localhost:8000/prices/latest?ticker=eth_usd](http://localhost:8000/prices/latest?ticker=eth_usd)
 
 ### Управление сервисами
 
