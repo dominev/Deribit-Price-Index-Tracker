@@ -79,8 +79,12 @@ deribit-price-tracker/
 
 ---
 
-## Установка и запуск
+##Для установки и запуска потребуется:
 
+Docker Desktop - https://www.docker.com/products/docker-desktop/
+Git - https://git-scm.com/install/windows
+
+## Установка и запуск
 ### 1. Клонирование репозитория
 
 ```bash
