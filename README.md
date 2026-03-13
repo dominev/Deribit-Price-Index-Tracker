@@ -94,7 +94,7 @@ cd deribit-price-index-tracker
 
 ```bash
 
-'cp .env.example .env'
+cp .env.example .env
 
 ```
 
