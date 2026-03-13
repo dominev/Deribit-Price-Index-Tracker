@@ -118,12 +118,18 @@ docker-compose up -d
 
 ### Управление сервисами
 
-Остановка
+*Остановка*
+```bash
 docker-compose down
-Просмотр логов
+```
+*Просмотр логов*
+```bash
 docker-compose logs -f app
-Перезапуск после изменений
+```
+*Перезапуск после изменений*
+```bash
 docker-compose up -d --build
+```
 
 ---
 
