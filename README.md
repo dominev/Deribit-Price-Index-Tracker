@@ -79,15 +79,6 @@ deribit-price-tracker/
 
 ---
 
-## Требования
-
-- Docker Engine 20.10+
-- Docker Compose v2.0+
-- 2 ГБ RAM минимум
-- Порты: 8000 (API), 5432 (PostgreSQL), 6379 (Redis)
-
----
-
 ## Установка и запуск
 
 ### 1. Клонирование репозитория
