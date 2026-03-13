@@ -79,7 +79,7 @@ deribit-price-tracker/
 
 ---
 
-##Для установки и запуска потребуется:
+## Для установки и запуска потребуется:
 
 Docker Desktop - https://www.docker.com/products/docker-desktop/
 Git - https://git-scm.com/install/windows
