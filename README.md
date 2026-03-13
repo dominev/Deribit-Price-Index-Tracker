@@ -85,7 +85,7 @@ deribit-price-tracker/
 
 *Git* - https://git-scm.com/install/windows
 
-## Установка и запуск
+## Дальнейшие шаги
 ### 1. Клонирование репозитория
 
 ```bash
